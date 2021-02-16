@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  overflow: hidden;
+  background-color: #aac1e6;
+  color:white;
+  font-size: 25px;
+  text-align: center;
+}
+
+.fontfam{
+  font-family: 'Reggae One';
+  align-items: center;
+
+}
+nav{
+  font-family: 'Reggae One';

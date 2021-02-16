@@ -1,0 +1,35 @@
+.fontfam{
+  font-family: 'Reggae One', cursive;
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  text-align: center;
+}
+nav{
+  font-family: 'Reggae One', cursive;
+}
+.mycontent{
+  padding-top: 100px;
+ border: 10px solid red;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+  background: #aac1e6;
+  margin: 0;
+}
+
+
+#note {
+  position: absolute;
+  color: rgba(249,241,204,1);
+  left: 0;
+  right: 0;
+  bottom: 20px;
+  margin: auto;
+  text-align: center;
+  user-select: none;
+  font-family: Arial;
+}
